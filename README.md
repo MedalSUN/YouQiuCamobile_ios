@@ -1,1 +1,1 @@
-# YouQiuCamobile_ios
+# YouQiu_ios
